@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mounesh34517
+- 👋 Hi, I’m Nagesh Babu R
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning trendy technologies in web dev.
 - 💞️ I’m looking to collaborate on 
